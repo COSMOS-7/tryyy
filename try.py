@@ -1,6 +1,6 @@
 
 
-print("sss")
+
 print("new")
 
 
